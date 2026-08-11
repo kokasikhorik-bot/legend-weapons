@@ -1,0 +1,4 @@
+Backup: backups/NeoSMP-Lifesteal-1.21.11-before-logo-glyph-fix.zip
+ZIP: resourcepacks/NeoSMP-Lifesteal-1.21.11.zip
+SHA1: d4c0006fea46b316b8448539e91ca000faa7ab78
+logo.json chars[0]=U+E000 (57344); bitmap ascent=48 height=64; texture=1536x1024; forward-slash paths; no directory entries.
